@@ -1,0 +1,195 @@
+<?xml version="1.0" standalone="yes"?>
+<Rows>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>029f1a1c-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Кухонные уголки</Group_ByName>
+    <Code>0000134</Code>
+    <Parent_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>0a7e720d-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Столы обеденные</Group_ByName>
+    <Code>0000135</Code>
+    <Parent_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>10c65b25-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Столы-книги</Group_ByName>
+    <Code>0000136</Code>
+    <Parent_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>1827f5c0-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Столы сервировочные</Group_ByName>
+    <Code>0000137</Code>
+    <Parent_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>1827f5c1-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Стулья</Group_ByName>
+    <Code>0000138</Code>
+    <Parent_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>1fc90b49-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Табуреты</Group_ByName>
+    <Code>0000139</Code>
+    <Parent_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>1fc90b4a-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Барные столы и стулья</Group_ByName>
+    <Code>0000140</Code>
+    <Parent_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>23207fe5-06a5-11e6-9deb-001e67218051</Group_UID>
+    <Group_ByName>Комплектующие для НК</Group_ByName>
+    <Code>0000146</Code>
+    <Parent_UID>00000000-0000-0000-0000-000000000000</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>29ad3b7e-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Мойки и смесители</Group_ByName>
+    <Code>0000141</Code>
+    <Parent_UID>00000000-0000-0000-0000-000000000000</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>34ec6ce7-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Мойки накладные</Group_ByName>
+    <Code>0000142</Code>
+    <Parent_UID>29ad3b7e-f6de-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>3bc85acc-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Мойки врезные</Group_ByName>
+    <Code>0000143</Code>
+    <Parent_UID>29ad3b7e-f6de-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>3bc85acd-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Смесители</Group_ByName>
+    <Code>0000144</Code>
+    <Parent_UID>29ad3b7e-f6de-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>3d00f139-f247-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Модули верхние</Group_ByName>
+    <Code>0000130</Code>
+    <Parent_UID>bd247f6b-f095-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>3d00f13b-f247-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Модули нижние</Group_ByName>
+    <Code>0000131</Code>
+    <Parent_UID>bd247f6b-f095-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>54bb9762-f6de-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Аксессуары для кухни</Group_ByName>
+    <Code>0000145</Code>
+    <Parent_UID>00000000-0000-0000-0000-000000000000</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>5f0e24dc-06c2-11e6-9deb-001e67218051</Group_UID>
+    <Group_ByName>Заглушки</Group_ByName>
+    <Code>0000147</Code>
+    <Parent_UID>23207fe5-06a5-11e6-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>651f38ef-06c4-11e6-9deb-001e67218051</Group_UID>
+    <Group_ByName>Кромки с клеем</Group_ByName>
+    <Code>0000149</Code>
+    <Parent_UID>23207fe5-06a5-11e6-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>6c3104ae-06c4-11e6-9deb-001e67218051</Group_UID>
+    <Group_ByName>Накладки/планки</Group_ByName>
+    <Code>0000150</Code>
+    <Parent_UID>23207fe5-06a5-11e6-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>7263dedc-06c4-11e6-9deb-001e67218051</Group_UID>
+    <Group_ByName>Стеновые панели</Group_ByName>
+    <Code>0000152</Code>
+    <Parent_UID>23207fe5-06a5-11e6-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>8340d430-06c4-11e6-9deb-001e67218051</Group_UID>
+    <Group_ByName>Столешницы</Group_ByName>
+    <Code>0000153</Code>
+    <Parent_UID>23207fe5-06a5-11e6-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>8340d431-06c4-11e6-9deb-001e67218051</Group_UID>
+    <Group_ByName>Уголки уплотнительные</Group_ByName>
+    <Code>0000154</Code>
+    <Parent_UID>23207fe5-06a5-11e6-9deb-001e67218051</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>bd247f6b-f095-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Кухонные гарнитуры</Group_ByName>
+    <Code>0000129</Code>
+    <Parent_UID>00000000-0000-0000-0000-000000000000</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Обеденные зоны</Group_ByName>
+    <Code>0000132</Code>
+    <Parent_UID>00000000-0000-0000-0000-000000000000</Parent_UID>
+  </OneRow>
+  <OneRow>
+    <PacketOut_UID>-9223372036854772175</PacketOut_UID>
+    <RowState_UID>1</RowState_UID>
+    <Group_UID>fb5351c2-f6dd-11e5-9deb-001e67218051</Group_UID>
+    <Group_ByName>Обеденные зоны в комплекте</Group_ByName>
+    <Code>0000133</Code>
+    <Parent_UID>f375f5a5-f6dd-11e5-9deb-001e67218051</Parent_UID>
+  </OneRow>
+</Rows>
